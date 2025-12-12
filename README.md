@@ -20,3 +20,21 @@ The script reports the following metrics:
 - **Users:** Count of users currently logged in.
 - **Network:** IPv4 address and MAC address.
 - **Sudo:** Number of commands executed with `sudo`.
+
+## 📖 Requirements
+
+The script is written in pure Bash and relies only on standard system tools commonly available on Debian-like distributions:
+- `bash`
+- `uname`
+- `grep`, `awk`, `sort`, `wc`, `tr`
+- `free`
+- `df`
+- `vmstat`
+- `who`
+- `lsblk`
+- `ss`
+- `hostname`
+- `ip`
+- `wall`
+
+For the sudo command counter, you also need sudo logging configured.
