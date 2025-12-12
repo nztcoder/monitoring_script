@@ -4,7 +4,7 @@ A Bash script developed to monitor system performance and broadcast vital inform
 
 ## 📋 About The Project
 
-This project is a simple yet powerful system monitoring tool. It collects specific system metrics (CPU load, RAM usage, LVM status, etc.) and displays them on all open terminals using the `wall` command. The script is designed to run automatically at server startup and then every 10 minutes.
+This project is a simple yet powerful system monitoring tool. It collects specific system metrics (CPU load, RAM usage, LVM status, etc.) and displays them on all open terminals using the `wall` command.
 
 ## ⚙️ Features
 
