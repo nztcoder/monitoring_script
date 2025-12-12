@@ -1,4 +1,4 @@
-# 🖥️ System Monitoring Script (Born2BeRoot)
+# 🖥️ System Monitoring Script (Born2beRoot)
 
 A Bash script developed to monitor system performance and broadcast vital information to all logged-in users via the terminal.
 
